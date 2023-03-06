@@ -4,8 +4,8 @@ const Info = () => {
   return (
     <div className="about__info grid">
       <div className="about__box">
-        <i class="bx bx-award about__icon"></i>
-        <h3 className="about__title">Database Administartor</h3>
+        <i class="bx bx-certification about__icon"></i>
+        <h3 className="about__title">Certified Technician</h3>
         <span className="about__subtitle">10+ Projects</span>
       </div>
 
