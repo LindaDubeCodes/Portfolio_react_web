@@ -36,7 +36,7 @@ function Footer() {
             <i class="bx bxl-github"></i>
           </a>
 
-          <a href="" className="footer__social-link" target="_blank">
+          <a href="https://www.linkedin.com/in/linda-dube-32ab30244" className="footer__social-link" target="_blank">
             <i class="bx bxl-linkedin-square"></i>
           </a>
 

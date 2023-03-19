@@ -16,7 +16,7 @@ const Services = () => {
           <div>
             <i className="uil uil-arrow services__icon"></i>
             <h3 className="services__title">
-              Software Development <br /> & <br />
+
               Web Development
             </h3>
           </div>
@@ -40,8 +40,7 @@ const Services = () => {
 
               <h3 className="services__modal-title">Web Development</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of expirince proving quality
-                services to clients and companies
+                Benefits of my  Websites to Your Business
               </p>
 
               <ul className="services__modal-services grid">
@@ -100,9 +99,9 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">Database</h3>
+              <h3 className="services__modal-title">Data Analysis</h3>
               <p className="services__modal-description">
-                My Analysis of Data can help your organization:
+                Benefits of my  Analysis to Your Business
               </p>
 
               <ul className="services__modal-services grid">
@@ -170,39 +169,33 @@ const Services = () => {
 
               <h3 className="services__modal-title">UI/UX Design</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of expirince proving quality
-                services to clients and companies
+                Benefits of my Great UI/UX Designs to Your Business
               </p>
 
               <ul className="services__modal-services grid">
                 <li className="services__modal-services">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web Pages Development</p>
+                  <p className="services__modal-info">Boosts Brand Identity and Loyalty</p>
                 </li>
 
                 <li className="services__modal-services">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">IUI/UX Development</p>
-                </li>
-
-                <li className="services__modal-services">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    Quality Desktop and mobile Softwares and Applications
-                  </p>
-                </li>
-
-                <li className="services__modal-services">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Database designs</p>
+                  <p className="services__modal-info">Increases Traffic as more and more users will be interested in what you have to offer </p>
                 </li>
 
                 <li className="services__modal-services">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Data Analysis and Visualization
+                    saves your users’ time by making navigating your site or app easy and fast
                   </p>
                 </li>
+
+                <li className="services__modal-services">
+                  <i className="uil uil-check-circle services__modal-icon"></i>
+                  <p className="services__modal-info">ensure that every page on your website and app has a consistent design</p>
+                </li>
+
+
               </ul>
             </div>
           </div>
