@@ -4,34 +4,28 @@ export const Data = [
   {
     id: 1,
     image: Image1,
-    title: "Jon Doe",
-    description: "Work and Position",
+    title: "Sayeed Dlamini",
+    description: "HMIS Supervisor & senior Database Administrator",
   },
   {
     id: 2,
     image: Image1,
-    title: "Jon Doe",
-    description: "Work and Position",
+    title: "Sibongiseni Mkhonta",
+    description: "Limkokwing University Web Design Lecturer",
   },
 
   {
     id: 3,
     image: Image1,
-    title: "Jon Doe",
-    description: "Work and Position",
+    title: "Smile Tsela",
+    description: "HMIS Database Administrator",
   },
 
   {
     id: 4,
     image: Image1,
-    title: "Jon Doe",
-    description: "Work and Position",
+    title: "Junior Hoare",
+    description: "Ubombo Sugar Company IT Support",
   },
 
-  {
-    id: 5,
-    image: Image1,
-    title: "Jon Doe",
-    description: "Work and Position",
-  },
 ];

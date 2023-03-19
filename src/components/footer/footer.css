@@ -36,8 +36,8 @@
 }
 
 .footer__social-link {
-    background-color: var(--title-color);
-    color: var(--container-color);
+    background-color: var( --button-color);
+    color: var( --button-text-color);
     font-size: 1.125rem;
     padding: 0.4rem;
     border-radius: 0.5rem;

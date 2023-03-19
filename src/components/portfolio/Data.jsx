@@ -1,23 +1,23 @@
-import Image1 from "../../assets/linda.jpg";
-import Image2 from "../../assets/linda.jpg";
-import Image3 from "../../assets/linda.jpg";
-import Image4 from "../../assets/linda.jpg";
-import Image5 from "../../assets/linda.jpg";
-import Image6 from "../../assets/linda.jpg";
+import Image1 from "../../assets/ticket.png";
+import Image2 from "../../assets/Covid.png";
+import Image3 from "../../assets/irwan-tweetbyirwan-rbDE93-0hHs-unsplash.jpg";
+import Image4 from "../../assets/Hotel.png";
+import Image5 from "../../assets/thomas-kinto-6MsMKWzJWKc-unsplash.jpg";
+import Image6 from "../../assets/alexander-shatov-PEJtZfT6C1Q-unsplash.jpg";
 
 export const projectData = [
   {
     id: 1,
     image: Image1,
     title: "Ticket Booking System",
-    category: "web",
+    category: "websites",
     language: "PHP",
   },
   {
     id: 2,
     image: Image2,
     title: "Covid Data Analysis",
-    category: "data",
+    category: "data Analysis",
     language: "SQL, Microsoft Excel, Tableau",
   },
 
@@ -25,7 +25,7 @@ export const projectData = [
     id: 3,
     image: Image3,
     title: "Hospital Management System",
-    category: "app",
+    category: "apps",
     language: "C#",
   },
 
@@ -33,7 +33,7 @@ export const projectData = [
     id: 4,
     image: Image4,
     title: "Analysis of Hotel Revenue Data",
-    category: "data",
+    category: "data Analysis",
     language: "SQL, Microsoft Excel, Power BI",
   },
 
@@ -41,7 +41,7 @@ export const projectData = [
     id: 5,
     image: Image5,
     title: "Google Geolocation API Project",
-    category: "web",
+    category: "websites",
     language: "Python, Django, Google Maps API",
   },
 
@@ -49,7 +49,7 @@ export const projectData = [
     id: 6,
     image: Image6,
     title: "PHP Messenger App",
-    category: "app",
+    category: "apps",
     language: "PHP, CSS, JavaScript, HTML",
   },
 ];
@@ -59,12 +59,12 @@ export const projectsNav = [
     name: "all",
   },
   {
-    name: "web",
+    name: "websites",
   },
   {
-    name: "app",
+    name: "apps",
   },
   {
-    name: "data",
+    name: "data Analysis",
   },
 ];

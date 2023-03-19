@@ -16,8 +16,8 @@
 }
 
 .work__item:hover {
-    background-color: var(--title-color);
-    color: var(--container-color);
+    background-color: var(--button-color);
+    color: var(--button-text-color);
 
 }
 
@@ -37,6 +37,7 @@
 
 .work__img {
     width: 250px;
+    height: 200px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
 }

@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-container container">
-        <h1 className="footer__title">Dube</h1>
+        <h1 className="footer__title">Linda Dube</h1>
 
         <ul className="footer__list">
           <li>
@@ -28,11 +28,11 @@ function Footer() {
         </ul>
 
         <div className="footer__social">
-          <a href="" className="footer__social-link" target="_blank">
+          <a href="https://wa.me/76767987" className="footer__social-link" target="_blank">
             <i class="bx bxl-whatsapp"></i>
           </a>
 
-          <a href="" className="footer__social-link" target="_blank">
+          <a href="https://github.com/LindaDubeCodes" className="footer__social-link" target="_blank">
             <i class="bx bxl-github"></i>
           </a>
 
